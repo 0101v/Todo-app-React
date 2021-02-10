@@ -1,0 +1,15 @@
+.todo-app {
+  margin: 1rem auto 0 auto;
+  max-width: 425px;
+}
+
+
+.top-panel {
+  margin: 10px 0;
+  padding: 0;
+}
+
+.comment {
+  margin-top: 30px;
+  margin-bottom: 0;
+}

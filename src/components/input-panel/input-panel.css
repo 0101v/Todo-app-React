@@ -1,0 +1,9 @@
+.input {
+  flex-grow: 1;
+  margin-right: 3px;
+  font-size: 20px;
+}
+
+.input.form-control.input {
+  width: 100%;
+}
